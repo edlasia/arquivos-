@@ -1,0 +1,11 @@
+public class OlaMundo {
+	//metodo principal - inicia o aplicativo java
+
+	
+	public static void main(String[] args){
+		//Exibe a frase "Ola Mundo!" no console.
+		System.out.println("Ola Mundo!");
+
+}
+
+	}
